@@ -38,12 +38,12 @@ $(document).ready(function(){
             },
         },
         messages:{
-            nome:'Porfavro, insira o seu nome',
-            telefone:'Porfavro, insira o seu numero',
-            cpf:'Porfavro, insira o seu numero de CPF',
-            endereço:'Porfavro, insira o seu endereço completo',
-            email:'Porfavro, insira o seu email',
-            cep:'Porfavor, insira seu CEP'
+            nome:'Por favor, insira o seu nome',
+            telefone:'Por favor, insira o seu numero',
+            cpf:'Por favor, insira o seu numero de CPF',
+            endereço:'Por favor, insira o seu endereço completo',
+            email:'Por favor, insira o seu email',
+            cep:'Por favor, insira seu CEP'
         },
         submitHandler:function(form){
             console.log(form)
